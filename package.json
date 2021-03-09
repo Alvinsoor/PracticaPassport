@@ -1,0 +1,29 @@
+{
+  "name": "tarea4pae",
+  "version": "1.0.0",
+  "description": "School exercise",
+  "main": "index.js",
+  "dependencies": {
+    "express-handlebars": "^5.2.1",
+    "express": "^4.17.1",
+    "dotenv": "^8.2.0",
+    "cookie-session": "^1.4.0",
+    "mongodb": "^3.6.4",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alvinsoor/PracticaPassport.git"
+  },
+  "author": "is701863",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alvinsoor/PracticaPassport/issues"
+  },
+  "homepage": "https://github.com/Alvinsoor/PracticaPassport#readme"
+}
